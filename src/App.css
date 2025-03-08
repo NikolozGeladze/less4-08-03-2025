@@ -1,0 +1,29 @@
+#card {
+    width: 200px;
+    height: 250px;
+    box-shadow: 0px 0px 20px 2px white;
+    border-radius: 8px;
+    margin-left: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    transition: 1s;
+}
+
+#card h1 {
+    text-align: center;
+}
+
+.first {
+    background-color: aliceblue;
+    width: 300px;
+}
+
+.second {
+    background-color: blueviolet;
+    color: white;
+}
+
+p {
+    text-align: center;
+}
