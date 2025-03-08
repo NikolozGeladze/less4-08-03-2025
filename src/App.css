@@ -8,6 +8,7 @@
     flex-direction: column;
     gap: 5px;
     transition: 1s;
+    padding: 20px;
 }
 
 #card h1 {
